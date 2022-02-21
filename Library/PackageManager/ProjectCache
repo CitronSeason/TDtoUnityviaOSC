@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637810448801285152
-    m_Hash: 1716474340
+      ticks: 637810503161525745
+    m_Hash: 652706203
   m_LockFileStatus:
     m_FilePath: C:/Projects/Unity/TDtoUnityviaOSC/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637810449046295892
-    m_Hash: 4166240668
+      ticks: 637810503366729633
+    m_Hash: 1953658097
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -2544,6 +2544,61 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.0
+    nextVersion: 
+- packageId: jp.keijiro.osc-jack@1.0.3
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.3
+  source: 1
+  resolvedPath: C:\Projects\Unity\TDtoUnityviaOSC\Library\PackageCache\jp.keijiro.osc-jack@1.0.3
+  assetPath: Packages/jp.keijiro.osc-jack
+  name: jp.keijiro.osc-jack
+  displayName: OSC Jack
+  author:
+    name: Keijiro Takahashi
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Lightweight implementation of OSC server/client
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    compatible:
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: scoped:Keijiro
+    name: Keijiro
+    url: https://registry.npmjs.com
+    scopes:
+    - jp.keijiro
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637513874239320000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/keijiro/OscJack.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
